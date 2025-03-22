@@ -1,5 +1,4 @@
 # imports
-import sqlalchemy
 from sqlalchemy import create_engine
 import psycopg2
 from dotenv import load_dotenv
