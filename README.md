@@ -1,1 +1,1 @@
-# pipeline_dbt
+# Pipeline ETL Python - Monitoramento de preços de Commodities com SQL e dbt-core (Data Warehouse)
