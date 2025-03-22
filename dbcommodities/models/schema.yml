@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: dbcommodities
+    database: dbcommodities
+    schema: public
+    tables:
+      - name: commodities
+        description: "Commodities"
+        columns:
+          - name: Close
+            description: "Preço de fechamento"
+          - name: ticker
+            description: "Nome do ativo"
